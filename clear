@@ -1,0 +1,37 @@
+[33mcommit 3c53a0273206c7b1a8284a915c4af154c1eb1ba3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: c6574fb acd107c
+Author: BunHor-dev <bunhordigital77@gmail.com>
+Date:   Mon May 17 12:49:13 2021 +0700
+
+    Merge branch 'main' of https://github.com/BunHor-dev/randomNumber
+    fix
+
+[33mcommit c6574fb4c13726bbca92b233ebb9f752c205328f[m
+Author: BunHor-dev <bunhordigital77@gmail.com>
+Date:   Mon May 17 12:48:00 2021 +0700
+
+    Add mango
+
+[33mcommit acd107cce9639e83b80bd7fcbc2699cdbd94d5a7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: bun-hor <73393368+BunHor-dev@users.noreply.github.com>
+Date:   Mon May 17 12:46:10 2021 +0700
+
+    Create banana.txt
+
+[33mcommit 650ea52bfb23eef167841f6dd2cc4fdbdd76088d[m
+Author: bun-hor <73393368+BunHor-dev@users.noreply.github.com>
+Date:   Mon May 17 12:44:16 2021 +0700
+
+    Create apple.txt
+
+[33mcommit 19ba2dc797cdcce2652f35ab297d2444571f8f26[m
+Author: BunHor-dev <bunhordigital77@gmail.com>
+Date:   Mon May 17 12:38:12 2021 +0700
+
+    Add Buildig
+
+[33mcommit 360746f5bee437e0cba5c9c7a1815555b779fdfa[m
+Author: bun-hor <73393368+BunHor-dev@users.noreply.github.com>
+Date:   Mon May 17 12:23:58 2021 +0700
+
+    Initial commit
